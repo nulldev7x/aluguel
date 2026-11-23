@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Controlealuguel/Controlealuguel.vcxproj" />
+  <Project Path="Controlealuguel/Controlealuguel.vcxproj" Id="35238561-c0ac-446d-93e9-cbd960dcc212" />
 </Solution>
